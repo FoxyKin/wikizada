@@ -1,0 +1,42 @@
+* {
+  margin: 0%;
+}
+
+.imgSize {
+  height: 30%;
+  width: 30%;
+}
+
+body {
+  background-color: #121212;
+  color: #A6A6A6;
+  margin: 0 8vw;
+}
+
+.characterName {
+  text-align: center;
+}
+
+.class-2 {
+  font-style: italic;
+}
+
+.personagem {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8vh;
+}
+
+.personagem p {
+  text-align: justify;
+  margin: 3vh 0 0 3vw;
+}
+
+.personagem h2 {
+  text-align: center;
+  margin-left: 3vw;
+}
+
+.self {
+  align-self: center;
+}
